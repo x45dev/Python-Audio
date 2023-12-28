@@ -1,0 +1,6 @@
+librosa
+# matplotlib version pinned to v3.7 while waiting for librosa development to catch up. See https://github.com/librosa/librosa/issues/1763
+matplotlib==3.7
+numpy
+pyaudio
+sounddevice

@@ -1,0 +1,3 @@
+# Files or directories listed in this file are ignored by Git
+.venv
+.idea
